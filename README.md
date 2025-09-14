@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/urshashi09/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/urshashi09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/urshashi09/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/urshashi09/Leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/urshashi09/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/urshashi09/Leetcode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/urshashi09/Leetcode/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/urshashi09/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/urshashi09/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/urshashi09/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
