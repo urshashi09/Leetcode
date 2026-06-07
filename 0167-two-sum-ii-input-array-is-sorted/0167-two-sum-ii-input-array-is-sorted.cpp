@@ -1,17 +1,22 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& arr, int target) {
-        unordered_map <int,int> mpp;
-        int n= arr.size();
-        for(int i=0; i<n; i++){
-            int a=arr[i];
-            int more= target- a;
-            if(mpp.find(more)!= mpp.end()){
-                return {mpp[more]+1,i+1};
-            }
-            mpp[a]= i;
-        } 
-        return {};
+        vector <int> ans={};
+        int i=0;
+    int j=arr.size()-1;
+    while (i<j){
+        if (arr[i]+arr[j]>target){
+            j--;
+        } else if(arr[i]+arr[j]<target){
+            i++;
+        }else{
+            ans.push_back(i+1);
+            ans.push_back(j+1);
+            break;
+        }
+        
+    }
+        return ans;
     }
     
 };
