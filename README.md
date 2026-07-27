@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/urshashi09/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/urshashi09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/urshashi09/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/urshashi09/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/urshashi09/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/urshashi09/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
