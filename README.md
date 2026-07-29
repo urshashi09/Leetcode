@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/urshashi09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2963-count-the-number-of-good-partitions](https://github.com/urshashi09/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/urshashi09/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/urshashi09/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/urshashi09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2963-count-the-number-of-good-partitions](https://github.com/urshashi09/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/urshashi09/Leetcode/tree/master/0048-rotate-image) |
+| [2963-count-the-number-of-good-partitions](https://github.com/urshashi09/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Matrix
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/urshashi09/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/urshashi09/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
