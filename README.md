@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/urshashi09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/urshashi09/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/urshashi09/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/urshashi09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2963-count-the-number-of-good-partitions](https://github.com/urshashi09/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/urshashi09/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/urshashi09/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/urshashi09/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/urshashi09/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
