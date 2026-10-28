@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/urshashi09/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/urshashi09/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/urshashi09/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/urshashi09/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/urshashi09/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/urshashi09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/urshashi09/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/urshashi09/Leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/urshashi09/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/urshashi09/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/urshashi09/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
